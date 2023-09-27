@@ -1,0 +1,55 @@
+Date: 19/4/2023
+Time: 22:43
+Phone Number: +919158629209
+Message: This msg is TEsting msg 1
+--------------------
+Date: 19/4/2023
+Time: 22:46
+Phone Number: +919158629209
+Message: This msg is TEsting msg 1
+--------------------
+Date: 19/4/2023
+Time: 22:47
+Phone Number: +919158629209
+Message: This msg is TEsting msg 2
+--------------------
+Date: 19/4/2023
+Time: 22:49
+Phone Number: +917385605390
+Message: This msg is TEsting msg 3
+--------------------
+Date: 19/4/2023
+Time: 22:50
+Phone Number: +917385605390
+Message: This msg is TEsting msg *3*
+--------------------
+Date: 19/4/2023
+Time: 22:58
+Phone Number: +917385605390
+Message: This msg is TEsting msg 3
+--------------------
+Date: 20/4/2023
+Time: 0:1
+Phone Number: +917385605390
+Message: This msg is TEsting msg 3
+--------------------
+Date: 20/4/2023
+Time: 0:5
+Phone Number: +917385605390
+Message: This msg is TEsting msg 3
+--------------------
+Date: 20/4/2023
+Time: 0:7
+Phone Number: +919766748159
+Message: myorder
+--------------------
+Date: 20/4/2023
+Time: 0:8
+Phone Number: +919766748159
+Message: myorder
+--------------------
+Date: 20/4/2023
+Time: 0:10
+Phone Number: +919766748159
+Message: *Thankyou For Shopping* Name : Price*Quantity = Totalbiscuit : 10*20 = 200/- oil : 10*50 = 500/- oil : 20*10 = 200/- *Total Billing Amount 900/-* Billing Time : 20/04/2023 00:10:43
+--------------------
